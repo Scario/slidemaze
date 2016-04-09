@@ -29,6 +29,7 @@
     <room>rooms\rm_one</room>
     <room>rooms\rm_test</room>
     <room>rooms\rm_two</room>
+    <room>rooms\rm_tree</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
